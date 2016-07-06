@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://panoptechon.github.io
+title: PANOPTECHON
+tagline: #Android #Linux #Apps #Customization #Privacy #Reviews
+description: My awesome new site
+paginate: 5
